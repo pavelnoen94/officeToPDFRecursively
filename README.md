@@ -1,7 +1,7 @@
 # Readme
 This script takes all office documents and converts them to PDF without any prompts. This scipt has only been tested on Windows
 
-![asdasd](https://i.postimg.cc/XqLzbKG5/Merknad-2019-11-11-185651.jpg)
+![asdasd](https://i.postimg.cc/ZK98ZFdh/Merknad-2019-11-11-185818.jpg)
 
 ## Prerequisit
 
